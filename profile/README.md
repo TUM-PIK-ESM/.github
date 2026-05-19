@@ -8,5 +8,5 @@ Our research group is also part of the development of new Earth System Model com
 
 * ☁️ [SpeedyWeather.jl](https://github.com/SpeedyWeather/SpeedyWeather.jl): A global, spectral atmospheric model with an everything flexible attitude,
 * 🌱 [Terrarium.jl](https://github.com/TUM-PIK-ESM/Terrarium.jl): Modelling land and ecosystems across temporal and spatial scales,
-* 🌾 [NeuralCrop](https://github.com/TUM-PIK-ESM/NeuralCrop.jl):: A differentiable global gridded crop model combining physics with machine learning.
+* 🌾 [NeuralCrop](https://github.com/yunan-l/NeuralCrop.jl):: A differentiable global gridded crop model combining physics with machine learning.
 
